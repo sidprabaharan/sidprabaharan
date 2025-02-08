@@ -42,7 +42,6 @@ Hello! My name is **Sid**, and I'm a **third-year Computer Engineering student**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-_(I’ll be adding more tools later!)_
 
 ## 📄 Resume
 You can check out my **[Resume Here](https://drive.google.com/open?id=1giehJuv46yFE9EEz0fYP1LZBwQ1FsLFm&usp=drive_copy)**.

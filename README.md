@@ -6,7 +6,7 @@
 ## 📌 About Me
 Hello! My name is **Sid**, and I'm a **third-year Computer Engineering student** at **Queen’s University**. I’m passionate about **AI, data analytics, and cloud computing**. My goal is to gain experience in cutting-edge technologies and eventually start my own company. 🚀
 
-- 💻 **Currently Working On**: AI-Powered Financial Analysis & Risk Prediction Platform
+- 💻 **Currently Working On**: An AI-Powered Financial Analysis & Risk Prediction Platform
 - 🎓 **Learning**: Object Detection, Reinforcement Learning, and Cloud Security
 - 💡 **Interests**: AI, Finance, Blockchain, Cloud Computing
 - ⚡ **Fun Fact**: I’m obsessed with optimizing health and wellness—whether it’s through smart nutrition, movement, or biohacking, I love exploring ways to feel and perform at my best!

@@ -44,7 +44,7 @@ Hello! My name is **Sid**, and I'm a **third-year Computer Engineering student**
 
 
 ## 📄 Resume
-You can check out my **[Resume Here](https://drive.google.com/open?id=1giehJuv46yFE9EEz0fYP1LZBwQ1FsLFm&usp=drive_copy)**.
+You can check out my **[Resume Here](https://drive.google.com/file/d/1TXbW1Ea0oOACHj1ibFtreTVdCueAjObg/view?usp=drive_link)**.
 
 ## 📬 Contact
 📧 **Email**: [sidprabaharan@gmail.com](mailto:sidprabaharan@gmail.com)  

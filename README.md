@@ -9,10 +9,11 @@ Hello! My name is **Sid**, and I'm a **third-year Computer Engineering student**
 - 💻 **Currently Working On**: Learning and building AI Agents
 - 🎓 **Learning**: Object Detection, Reinforcement Learning, and Cloud Security
 - 💡 **Interests**: AI, Finance, Blockchain, Cloud Computing
-- ⚡ **Fun Fact**: I’m obsessed with optimizing health and wellness—whether it’s through smart nutrition, movement, or biohacking, I love exploring ways to feel and perform at my best!
+- ⚡ **Fun Fact**: I’m obsessed with optimizing health and wellness, whether it’s through smart nutrition, movement, or biohacking, I love exploring ways to feel and perform at my best!
 
 ## 💼 Experience
 ### 🏢 ex.Intern at Asari as a Software Engineering Intern 
+
 
 ## 🛠 Tools & Technologies
 

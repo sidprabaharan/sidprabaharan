@@ -12,7 +12,7 @@ Hello! My name is **Sid**, and I'm a **third-year Computer Engineering student**
 - ⚡ **Fun Fact**: I’m obsessed with optimizing health and wellness, whether it’s through smart nutrition, movement, or biohacking, I love exploring ways to feel and perform at my best!
 
 ## 💼 Experience
-### 🏢 Intern developing SaaS tools at AEACGi. Consulting for enterprise clients
+### 🏢 Intern developing SaaS tools at AEACGi. Consulting as a Software Developer Intern
 ### 🏢 ex.Intern at Asari as a Software Engineering Intern 
 
 
